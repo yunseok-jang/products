@@ -40,4 +40,4 @@ public class ProductController {
         System.out.println(data);
         return this.productService.save(data);
     }
-}
+} 
